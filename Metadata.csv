@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,PLQ110,1793984355153,2026-11-06_16-59-15,Asia/Shanghai,android,1.68.1,890c89c8-0f2e-47ea-baad-a2d041a031dd,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,20|20||20|20|20,false,36
